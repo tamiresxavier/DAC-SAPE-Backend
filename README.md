@@ -1,6 +1,6 @@
 # Backend
 
-Equipe Alpha: Ayanne Prata, Danilo Costa, Keilla Vitória
+Equipe Alpha: Ayanne Prata, Danilo Costa, Débora Cristiane, Keilla Vitória e Tamires Xavier
 
 ---
 ### - Como usar:
